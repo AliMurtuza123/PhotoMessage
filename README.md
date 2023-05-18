@@ -1,6 +1,7 @@
 # PhotoMessage
 Photo Message is a Progressive Web Application which uses google workbox. It is an messaging app where users send messages with photo.
-Service worker files are built using sw_build.js file which uses workbox-build to dynamically create service worker files
+Service worker files are built using sw_build.js file which uses workbox-build to dynamically create service worker files.
+I am using workbox via cdn
 
 ## App Dependencies
 ### yarn
